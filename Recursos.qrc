@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Recursos/concentrico.png</file>
+        <file>Recursos/dibujar.png</file>
+        <file>Recursos/editar(1).png</file>
+        <file>Recursos/editar.png</file>
+        <file>Recursos/paleta-de-color.png</file>
+        <file>Recursos/pintar.png</file>
+        <file>Recursos/disco-flexible.png</file>
+        <file>Recursos/iconfinder_exit-enter-leave-in-door_2931187.png</file>
+        <file>Recursos/nuevo-archivo.png</file>
+        <file>Recursos/salvar.png</file>
+        <file>Recursos/talla.png</file>
+    </qresource>
+</RCC>
